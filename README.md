@@ -3,7 +3,7 @@
 
 - 💻 Hoje trabalho como Analista de Sistemas Jr
 - 🎓 Cursando Analise e Desenvolvimento de Sistemas
-- 💱 Full Stack em construção 
+- 💱 Desenvolvedor Full Stack
 - ✉ Contate-me no email: reydson.eduardo@gmail.com
 - 📌 linkedin: www.linkedin.com/in/reydsonmartins-ti
 
