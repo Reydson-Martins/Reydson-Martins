@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Reydson Martins
 
 
-- 💻 Hoje trabalho como Analista de Sistemas Jr
+- 💻 Hoje trabalho como Analista de Sistemas
 - 🎓 Cursando Analise e Desenvolvimento de Sistemas
 - 💱 Desenvolvedor Full Stack
 - ✉ Contate-me no email: reydson.eduardo@gmail.com
