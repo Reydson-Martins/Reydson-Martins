@@ -2,7 +2,7 @@
 
 ### 🖥️ About: <br>
 - I'm a Web Developer. And, I'm styding Web Development at [Rocketseat]. (https://www.rocketseat.com.br/)
-- 🎓 I'm post graduated in (CST) Systems Development Analyst
+- 🎓 I'm graduated in (CST) Systems Development Analyst
 
 
    
