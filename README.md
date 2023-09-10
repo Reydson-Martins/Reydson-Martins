@@ -15,7 +15,18 @@
 </div>
   
 
-### 🖥️ Em desenvolvimento: <br>
+### 🖥️ About: <br>
+I'm a Web Developer. And, I'm styding Web Development at [Rocketseat]. (https://www.rocketseat.com.br/)
+
+### Current stack <br>
+
+- Main Language: 'Javascript'
+- Backend: 'NodeJs'
+- SGBD: 'Orocle SQL', 'My SQL', 'SQL'.
+- Frontend: 'React Js', 'NEXTjs', 'HTML5', 'CSS3', 'Javascript', 'TypeScript'
+- Layout Design: 'Figma'
+- Version code control: 'Git & Github'
+- I'm mostly active within the 'Rocketseat Community'
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
