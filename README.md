@@ -13,7 +13,8 @@
 - 📌 Portfolio: https://rm-portfolio-git-feat-project-reydson-martins.vercel.app/
 ###<div> 
   <a href = "mailto:contatoreydson.eduardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/reydsonmartins-ti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>  
+  <a href="https://www.linkedin.com/in/reydsonmartins-ti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <br>  
 
 <div align="center">
   <a href="https://github.com/Reydson-Martins">
