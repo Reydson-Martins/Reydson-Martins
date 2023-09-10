@@ -4,7 +4,7 @@
 - I'm a Web Developer. And, I'm styding Web Development at [Rocketseat]. (https://www.rocketseat.com.br/)
 - 🎓 I'm post graduated in (CST) Systems Development Analyst
 
-###<div>
+###<div> <br>
   <a href = "mailto:contatoreydson.eduardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/reydsonmartins-ti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
    
@@ -41,12 +41,6 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />               
  
-</div>
-  
-  ###<div>
-  <a href = "mailto:contatoreydson.eduardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/reydsonmartins-ti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-   
 </div>
  
 
