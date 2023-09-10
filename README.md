@@ -2,7 +2,6 @@
 
 ### 🖥️ About: <br>
 - I'm a Web Developer. And, I'm styding Web Development at [Rocketseat]. (https://www.rocketseat.com.br/)
-- 💻 Hoje trabalho como Analista de Sistemas
 - 🎓 I'm post graduated in (CST) Systems Development Analyst
 
 ### Contacts: <br> 
