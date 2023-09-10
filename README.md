@@ -1,4 +1,4 @@
-## Olá! Eu sou o Reydson Martins
+## Hi! I'm Reydson Martins |
 
 
 - 💻 Hoje trabalho como Analista de Sistemas
