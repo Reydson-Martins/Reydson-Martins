@@ -1,12 +1,14 @@
 ## Hi! I'm Reydson Martins |
 
-
+### 🖥️ About: <br>
+- I'm a Web Developer. And, I'm styding Web Development at [Rocketseat]. (https://www.rocketseat.com.br/)
 - 💻 Hoje trabalho como Analista de Sistemas
-- 🎓 Cursando Analise e Desenvolvimento de Sistemas
-- 💱 Desenvolvedor Full Stack
-- ✉ Contate-me no email: reydson.eduardo@gmail.com
+- 🎓 I'm post graduated in (CST) Systems Development Analyst
+
+### Contacts: <br> 
+- ✉ Email: reydson.eduardo@gmail.com
 - 📌 linkedin: www.linkedin.com/in/reydsonmartins-ti
-- 📌 Portfoliio: https://rm-portfolio-git-feat-project-reydson-martins.vercel.app/
+- 📌 Portfolio: https://rm-portfolio-git-feat-project-reydson-martins.vercel.app/
 
 <div align="center">
   <a href="https://github.com/Reydson-Martins">
@@ -15,8 +17,6 @@
 </div>
   
 
-### 🖥️ About: <br>
-I'm a Web Developer. And, I'm styding Web Development at [Rocketseat]. (https://www.rocketseat.com.br/)
 
 ### Current stack <br>
 
