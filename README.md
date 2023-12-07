@@ -1,7 +1,7 @@
 ## Hi! I'm Reydson Martins |
 
 ### 🖥️ About: <br>
-- I'm a Web Developer. And, I'm styding Web Development at [Rocketseat]. (https://www.rocketseat.com.br/)
+- I'm a Web Developer.
 - 🎓 I'm graduated in (CST) Systems Development Analyst
 
 
