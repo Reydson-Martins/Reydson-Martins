@@ -26,10 +26,10 @@
 
 ### Current stack <br>
 
-- Main Language: 'Javascript'
-- Backend: 'NodeJs'
+- Main Language: 'Javascript, PHP'
+- Backend: 'NodeJs, Laravel'
 - SGBD: 'Orocle SQL', 'My SQL', 'SQL'.
-- Frontend: 'React Js', 'NEXTjs', 'HTML5', 'CSS3', 'Javascript', 'TypeScript'
+- Frontend: 'React Js', 'NEXTjs','Vue-JS','HTML5', 'CSS3', 'Javascript', 'TypeScript'
 - Layout Design: 'Figma'
 - Version code control: 'Git & Github'
 - I'm mostly active within the 'Rocketseat Community'
